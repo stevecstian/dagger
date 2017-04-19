@@ -34,3 +34,9 @@ useful in getting started with Dagger 2.
     Ron Shapiro & David P. Baker
 
     Nov 10, 2016
+
+*   [Understanding Dagger 2's Codegen implementation](https://www.youtube.com/watch?v=-UWWFBEhW3Q)
+
+    Gregory Kick
+
+    Apr 19, 2017
